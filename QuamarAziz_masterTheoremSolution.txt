@@ -1,0 +1,5 @@
+a) O(n^log3(base2))
+b) Master's theorem cannot be applied as f(n) is negative.
+c) Master's theorem cannot be applied as a is variable.
+d) O(nlogn)
+e) O(n^2)
